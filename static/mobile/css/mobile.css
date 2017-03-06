@@ -42,8 +42,8 @@ textarea.form-control{padding:6px;}
 .btn-success:hover, .btn-success:active{background-color: #119E10 !important;color: #fff !important;}
 .btn-success.active{background-color: #ccc;color: #fff;box-shadow: none;}
 .btn-success.active:hover{background-color: #999 !important;}
-.btn-primary{border:none;background-color: #66b7ff;}
-.btn-primary:hover, .btn-primary:active{background-color: #339DFF;}
+.btn-primary{border:none;background-color: #009688;}
+.btn-primary:hover, .btn-primary:active{background-color: #009688;}
 .btn-mini{width:64px;height: 24px;line-height:24px;padding:0;}
 .btn-normal{width: 70px;height: 34px;line-height: 34px;padding:0;font-size: 15px;}
 .btn-large{width: 90px;height: 34px;line-height: 34px;padding:0;}
@@ -410,7 +410,7 @@ textarea.form-control{padding:6px;}
 .aw-login-box .mod-head{position:relative;text-align: center;}
 .aw-login-box .mod-head img{margin-top:30px;}
 .aw-login-box .mod-head h1{margin-bottom:25px;font-size: 15px;color: #666;}
-.aw-login-box .mod-head .register{position: absolute;right: 0;top: 10px;background-color: transparent;border-color: #66b7ff;color: #66b7ff;}
+.aw-login-box .mod-head .register{position: absolute;right: 0;top: 10px;background-color: transparent;border-color: #009688;color: #009688;}
 .aw-login-box .mod-head .register:hover, .aw-login-box .mod-head .register:active{background-color: #66B7FF;color: #fff;}
 .aw-login-box .mod-body{padding:0 20px;}
 .aw-login-box .mod-body ul li{line-height:40px;margin-top: 15px;}
