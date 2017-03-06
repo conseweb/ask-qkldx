@@ -32,9 +32,9 @@ select{width: auto;}
 .btn-success.active{background-color: #eee;color: #999;box-shadow: none;}
 .btn-success.active:hover{background-color: #e6e6e6 !important;color: #999 !important;}
 .btn-success.active:active, .btn-success.active:focus{background-color: #d9d9d9 !important;color: #999;}
-.btn-primary{border: none !important;background-color: #59b0ff;}
-.btn-primary:hover{background-color: #4daaff;}
-.btn-primary:active, .btn-primary:focus{background-color: #1a90ff;}
+.btn-primary{border: none !important;background-color: #00BCD4;}
+.btn-primary:hover{background-color: #03A9F4;}
+.btn-primary:active, .btn-primary:focus{background-color: #03A9F4;}
 .btn-gray{border: none !important;background-color: #eee;color: #999;}
 .btn-gray:hover{background-color: #e6e6e6;color: #999;}
 .btn-gray:active, .btn-gray:focus{background-color: #d9d9d9;}
@@ -185,7 +185,7 @@ a.aw-load-more-content{display: block;}
 .aw-email-verify{height:38px;line-height:38px;background-color: #fff07b;border-bottom: 1px solid #d9cda7;color: #988328;}
 
 /* 顶部 */
-.aw-top-menu-wrap{position:relative;z-index:1001;width:100%;min-height:50px;background-color:#499ef3;}
+.aw-top-menu-wrap{position:relative;z-index:1001;width:100%;min-height:50px;background-color:#009688;}
 .aw-container-wrap{margin-top: 30px;}
 .aw-logo, .aw-search-box, .aw-top-nav{position:relative;float: left;}
 .aw-publish-btn, .aw-user-nav, .aw-top-notification{position:relative;float: right;margin:10px 0 10px 10px;}
@@ -204,8 +204,8 @@ a.aw-load-more-content{display: block;}
 .aw-top-nav{margin:0;border: none;}
 .aw-top-nav .icon-bar{background-color: #fff;font-size: 0;}
 .aw-top-nav > nav > ul > li > a{padding:16px;color: #fff;}
-.aw-top-nav > nav > ul > li > a.active{background: #4dabff;font-weight: bold;}
-.aw-top-nav > nav > ul > li > a:hover, .aw-top-nav > nav > ul > li > a:focus{background: #4dabff;}
+.aw-top-nav > nav > ul > li > a.active{background: #00ad9d;font-weight: bold;}
+.aw-top-nav > nav > ul > li > a:hover, .aw-top-nav > nav > ul > li > a:focus{background: #00ad9d;}
 .aw-top-nav > nav > ul > li > a i{position:relative;top:2px;font-size: 16px;}
 .aw-top-nav > nav > ul > li > a i.icon-home{top: 1px;}
 .aw-top-nav > nav > ul > li:hover .dropdown-list{display: block;}
