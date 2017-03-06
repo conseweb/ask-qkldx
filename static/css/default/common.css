@@ -34,7 +34,7 @@ select{width: auto;}
 .btn-success.active:active, .btn-success.active:focus{background-color: #d9d9d9 !important;color: #999;}
 .btn-primary{border: none !important;background-color: #00BCD4;}
 .btn-primary:hover{background-color: #03A9F4;}
-.btn-primary:active, .btn-primary:focus{background-color: #03A9F4;}
+.btn-primary:active, .btn-primary:focus{background-color: #2196F3;}
 .btn-gray{border: none !important;background-color: #eee;color: #999;}
 .btn-gray:hover{background-color: #e6e6e6;color: #999;}
 .btn-gray:active, .btn-gray:focus{background-color: #d9d9d9;}
@@ -189,8 +189,8 @@ a.aw-load-more-content{display: block;}
 .aw-container-wrap{margin-top: 30px;}
 .aw-logo, .aw-search-box, .aw-top-nav{position:relative;float: left;}
 .aw-publish-btn, .aw-user-nav, .aw-top-notification{position:relative;float: right;margin:10px 0 10px 10px;}
-.aw-logo{width:90px;height:40px;margin:7px 0 0 0;}
-.aw-logo a{display:block;width: 90px;height: 40px;background:url('img/logo.png') no-repeat;}
+.aw-logo{width:105px;height:40px;margin:7px 0 0 0;}
+.aw-logo a{display:block;width: 105px;height: 40px;background:url('img/logo.png') no-repeat;}
 .aw-logo h1{height:25px;line-height:25px;margin:-2px 0 2px 0;font-size:14px;}
 .aw-publish-btn{width:80px;}
 .aw-publish-btn a{display:block;width:80px;height: 32px;line-height: 32px;font-size: 14px;text-align: center;border-radius: 3px;}
@@ -198,8 +198,8 @@ a.aw-load-more-content{display: block;}
 .aw-publish-btn:hover #header_publish{border-radius: 4px 4px 0 0;}
 .aw-publish-btn:hover .dropdown-list{display: block;}
 .aw-publish-btn .dropdown-list{position: absolute;display: none;}
-.aw-publish-btn .dropdown-list a{background-color: #4dabff;border-radius: 0;color: #fff;}
-.aw-publish-btn .dropdown-list a:hover{background-color: #339dff;}
+.aw-publish-btn .dropdown-list a{background-color: #00BCD4;border-radius: 0;color: #fff;}
+.aw-publish-btn .dropdown-list a:hover{background-color: #00BCD4;}
 .aw-publish-btn .dropdown-list ul li:last-child a{border-radius: 0 0 4px 4px;}
 .aw-top-nav{margin:0;border: none;}
 .aw-top-nav .icon-bar{background-color: #fff;font-size: 0;}
